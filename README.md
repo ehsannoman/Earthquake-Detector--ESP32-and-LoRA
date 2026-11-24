@@ -1,0 +1,1 @@
+# Earthquake-Detector--ESP32-and-LoRA
